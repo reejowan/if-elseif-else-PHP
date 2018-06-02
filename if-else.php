@@ -3,7 +3,7 @@
 
   if($my_num == -1)
   {
-    echo "my_num is -1";
+    echo "my_num is -1"; //Here, this is actually displayed (my_num is -1)
     echo "<br>";
   }
   elseif($my_num == 0)
